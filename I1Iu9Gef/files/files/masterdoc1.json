@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "Az=>Labguide editor test odl123",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Lab-Guide/main/49240h02AhCAO/labguide-page001.md",
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Lab-Guide/main/49240h02AhCAO/labguide-page002.md",
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Lab-Guide/main/49240h02AhCAO/labguide-page003.md",
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabs-AI/Lab-Guide/main/49240h02AhCAO/labguide-page004.md",
+        "Order": 4,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Validations",
+            "UnlockCriteria": "Completion Percentage",
+            "DependentValidations": [
+              "07c8c783-a1c6-4366-bd0e-3101aa03abd4"
+            ]
+          },
+          {
+            "UnlockDependency": "Questions",
+            "UnlockCriteria": "Answered",
+            "DependentQuestions": [
+              "GroupQuestionsReference",
+              "labguidepage003sF4ZC2lT"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
