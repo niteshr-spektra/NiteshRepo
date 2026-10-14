@@ -1,1 +1,1 @@
-paeg1![image 1](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/niteshr-spektra/NiteshRepo/main/KABPYc9d/images/images/image-1.jpg)
+paeg1![image 1](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/niteshr-spektra/NiteshRepo/main/KABPYc9d/images/images/image-1.jpg)![image 1-02](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/niteshr-spektra/NiteshRepo/main/KABPYc9d/images/images/image-1-02.jpg)
